@@ -4,8 +4,8 @@
 
 The YaMDb project collects users' feedbacks and ratings on movies, books etc.
 
-Items are divided into categories such as "Books", "Films", "Music". The list of categories can be expanded (for example, you can add the category "fine art" or "jewellery").
-Categories are devideded into genres from the predefined list (for example, Fairy Tale, Rock or Arthouse).
+Items are divided into categories such as "Books", "Films", "Music". The list of categories can be expanded.
+Categories are devideded into genres from the predefined list.
 Only the administrator can add new categories and genres.
 
 Users may add reviews and ratings.
@@ -18,7 +18,7 @@ The project is accessed via API.
 
 ## How to launch a project:
 
-Clone the repository and switch to it on the command line:
+Clone the repository and switch to it using the command line:
 ```
 git clone git@github.com:Artem-Ter/api_yamdb.git
 or
